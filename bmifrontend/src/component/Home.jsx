@@ -13,7 +13,7 @@ import { IoMdMenu } from "react-icons/io";
 
 
 const Home=()=>{
-    const [menuOpen,setMenu]=useState(false);
+    
     return(
         <div className="min-h-screen font-sans text-gray-900 bg-white">
 
@@ -31,12 +31,6 @@ const Home=()=>{
                
             </div>
 
-            <div className="flex items-center md:hidden">
-                <button onClick={setMenu(!menuOpen)} className="text-gray-900 outline-none">
-                    {menuOpen ? <IoClose size={24}/>:<IoMdMenu size={24}/>}
-                </button>
-
-            </div>
             </nav>
 
             {/*Main section */}
