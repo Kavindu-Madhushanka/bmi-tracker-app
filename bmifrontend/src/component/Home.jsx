@@ -13,6 +13,7 @@ import { IoMdMenu } from "react-icons/io";
 
 
 const Home=()=>{
+    const [openMenu,setMenu]=useState(false);
     
     return(
         <div className="min-h-screen font-sans text-gray-900 bg-white">
@@ -30,6 +31,20 @@ const Home=()=>{
               <Link to="/register"><button className="px-6 py-2 font-bold transition-transform duration-300 bg-[#00FF7F] rounded-lg hover:scale-110">Register</button></Link>   
                
             </div>
+
+            <div className="flex md:hidden">
+                <button onClick={()=>setMenu(!openMenu)} className="text-gray-900 outline-none">
+                    {openMenu ?<IoClose/>:<IoMdMenu/>}
+
+                </button>
+ </div>
+            {openMenu && (
+                <div className="absolute flex flex-col items-center px-6 py-4 space-y-4 bg-white border rounded-lg shadow-lg right-12 md:hidden animate-in slide-in-from-top top-12">
+                     <Link to="/" className="transition-colors hover:text-green-500">Home</Link>
+              <Link to="/login" className="transition-colors hover:text-green-500">Login</Link> 
+              <Link to="/register"><button className="px-3 py-2  transition-transform duration-300 bg-[#00FF7F] rounded-lg hover:scale-110">Register</button></Link>   
+                </div>
+            )}
 
             </nav>
 
