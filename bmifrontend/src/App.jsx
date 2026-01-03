@@ -7,6 +7,7 @@ import Register from './component/Register';
 import About from './component/About';
 import Contact from './component/Contact';
 import Help from './component/Help';
+import Calculater from './component/Calculater';
 
 function App() {
   
@@ -19,6 +20,7 @@ function App() {
       <Route path="/about" element={<About/>}/>
       <Route path="/contact" element={<Contact/>}/>
       <Route path='/help' element={<Help/>}/>
+      <Route path='/calculater' element={<Calculater/>}/>
     </Routes>
   )
 }
