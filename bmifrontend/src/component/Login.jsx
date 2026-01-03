@@ -54,7 +54,9 @@ const Login=()=>{
 
                      </div>
 
-                     <button className="w-full py-2 bg-[#10f06f] border rounded-lg shadow-xl  hover:bg-[#0ed963] font-bold "  > Login </button>
+                     <Link to='/calculater'> <button className="w-full py-2 bg-[#10f06f] border rounded-lg shadow-xl  hover:bg-[#0ed963] font-bold "  > Login </button></Link>
+
+                     
 
                      </form>
 
