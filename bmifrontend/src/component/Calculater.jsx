@@ -6,6 +6,8 @@ import { GoHistory } from "react-icons/go";
 import { CiSettings } from "react-icons/ci";
 import { IoLogOutOutline } from "react-icons/io5";
 import { FaUserLarge } from "react-icons/fa6";
+import { LuSquareActivity } from "react-icons/lu";
+import { FaCheck } from "react-icons/fa6";
 
 
 const Calculater=()=>{
@@ -17,7 +19,7 @@ const Calculater=()=>{
     ];
     return(
         <div className="flex min-h-screen font-sans bg-gray-200">
-            <aside className="flex flex-col justify-between w-64 p-6 bg-white border-r">
+            <aside className="fixed top-0 left-0 z-50 flex flex-col justify-between w-64 h-screen p-6 bg-white border-r">
                 <div>
                     <div className="flex items-center gap-2">
                         <div>
@@ -58,7 +60,7 @@ const Calculater=()=>{
 
             </aside>
 
-            <main className="flex-1 p-10">
+            <main className="flex-1 p-10 ml-64">
                 <header className="mb-8">
                      <h2 className="text-3xl font-bold text-gray-800">Calculate your BMI</h2>
                      <p className="mt-2 text-gray-500">Enter your height and weight below to get your Body Mass Index result.</p>
@@ -113,9 +115,59 @@ const Calculater=()=>{
                         {/* Classifications Table */}
                     <div className="p-8 bg-white border border-gray-100 shadow-sm rounded-3xl">
                         <h3 className="mb-4 text-lg font-bold">BMI Classifications</h3>
+                        <div className="overflow-hidden">
+                            <table className="w-full text-sm">
+                                <thead>
+                                    <tr className="text-left text-gray-400 border-b border-gray-50">
+                                    <th className="pb-4 font-medium tracking-wider uppercase">BMI Range</th>
+                                    <th className="pb-4 font-medium tracking-wider uppercase">Category</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {classifications.map((item,index)=>(
+                                        <tr key={index} className={`${item.bg || ''} transition-colors`}>
+                                            <td className="py-4 text-gray-600">{item.range}</td>
+                                            <td className={`py-4 font-semibold ${item.color}`}>{item.category}</td>
+                                        </tr>
+                                    ))}
+                                </tbody>
+                            </table>
+                        </div>
 
                     </div>
 
+                    </div>
+
+                    <div className="col-span-5 space-y-6">
+                        <div className="bg-[#0a110a] text-white p-8 rounded-[40px] relative overflow-hidden">
+                            <div className="flex items-start justify-between mb-8">
+                                <div className="p-2 rounded-lg bg-green-900/50">
+                                <LuSquareActivity size={24} className="text-green-400"/>
+                                </div>
+                                <span className="text-[10px] bg-green-900 text-green-400 px-3 py-1 rounded-full font-bold">LATEST RESULT</span>
+                                </div>
+
+                                 <p className="mb-2 text-xs font-bold tracking-widest text-gray-400 uppercase">Your Body Mass Index</p>
+                                  <h4 className="mb-4 font-bold text-7xl">24.5</h4>
+                                  <p className="flex items-center gap-2 mb-8 text-xl font-bold text-green-400">Normal Weight
+                                    <span className=""><FaCheck size={24}/></span>
+                                  </p>
+
+                                  <div className="pt-6 mb-8 border-t border-gray-800">
+                                    <p className="text-sm leading-relaxed text-gray-400">
+                                        Great job! Your BMI is within the healthy range of 18.5 to 24.9. Maintain your balanced diet and regular exercise.
+                                    </p>
+
+                                  </div>
+
+                                  <div className="flex gap-4">
+                                    <button className="flex-1 py-3 text-sm font-medium transition bg-gray-800 hover:bg-gray-700 rounded-xl">Save Result</button>
+                                    <button className="flex-1 py-3 text-sm font-medium transition bg-gray-800 hover:bg-gray-700 rounded-xl">Share</button>
+
+                                  </div>
+
+
+                        </div>
                     </div>
 
                     
