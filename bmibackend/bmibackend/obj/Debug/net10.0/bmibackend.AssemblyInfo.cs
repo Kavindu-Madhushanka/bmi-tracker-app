@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bmibackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66da184436febc6df1a86252a9ceadce50848bf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76d88160cc7b0ef1fe52c2b5791678f91c2b7b83")]
 [assembly: System.Reflection.AssemblyProductAttribute("bmibackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bmibackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\BMI Project\\bmibackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF6F90AA-CE0C-4292-B718-5DB640CFCE80}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF6F90AA-CE0C-4292-B718-5DB640CFCE80}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\bmibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\bmibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "bmibackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:38:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Models\\User.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\User.cs",
+              "RelativeToolTip": "bmibackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:25:57.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bmibackend.csproj",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj",
+              "RelativeDocumentMoniker": "bmibackend\\bmibackend.csproj",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj",
+              "RelativeToolTip": "bmibackend\\bmibackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T20:22:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json",
               "RelativeDocumentMoniker": "bmibackend\\appsettings.json",
-              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json*",
-              "RelativeToolTip": "bmibackend\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json",
+              "RelativeToolTip": "bmibackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-09T20:32:19.507Z",
+              "WhenOpened": "2026-01-10T20:15:12.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Program.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Program.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Program.cs",
+              "RelativeToolTip": "bmibackend\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:49:17.052Z",
               "EditorCaption": ""
             }
           ]
