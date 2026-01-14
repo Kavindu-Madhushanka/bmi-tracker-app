@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\BMI Project\\bmibackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Models\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Models\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\bmibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\bmibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\Models\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\bmibackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|d:\\bmi project\\bmibackend\\bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20A32C73-F261-EBF7-756B-FDD138785994}|bmibackend\\bmibackend.csproj|solutionrelative:bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Models\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Models\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BMI Project\\bmibackend\\bmibackend\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bmibackend\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,59 +50,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "bmibackend\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "bmibackend\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T20:38:21.968Z",
+              "WhenOpened": "2026-01-14T19:57:46.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\LoginModel.cs",
+              "RelativeToolTip": "bmibackend\\Models\\LoginModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:38:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "bmibackend\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:36:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\User.cs",
               "RelativeDocumentMoniker": "bmibackend\\Models\\User.cs",
               "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Models\\User.cs",
               "RelativeToolTip": "bmibackend\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T20:25:57.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bmibackend.csproj",
-              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj",
-              "RelativeDocumentMoniker": "bmibackend\\bmibackend.csproj",
-              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj",
-              "RelativeToolTip": "bmibackend\\bmibackend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-10T20:22:03.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json",
-              "RelativeDocumentMoniker": "bmibackend\\appsettings.json",
-              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json",
-              "RelativeToolTip": "bmibackend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-10T20:15:12.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T20:25:57.325Z"
             },
             {
               "$type": "Document",
@@ -92,10 +112,71 @@
               "RelativeDocumentMoniker": "bmibackend\\Program.cs",
               "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Program.cs",
               "RelativeToolTip": "bmibackend\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T18:49:17.052Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "bmibackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:36:25.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Services\\AuthService.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "bmibackend\\Services\\AuthService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:03:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json",
+              "RelativeDocumentMoniker": "bmibackend\\appsettings.json",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\appsettings.json",
+              "RelativeToolTip": "bmibackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T20:15:12.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bmibackend.csproj",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj",
+              "RelativeDocumentMoniker": "bmibackend\\bmibackend.csproj",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\bmibackend.csproj",
+              "RelativeToolTip": "bmibackend\\bmibackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T20:22:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\BMI Project\\bmibackend\\bmibackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "bmibackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\BMI Project\\bmibackend\\bmibackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "bmibackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:46:54.766Z"
             }
           ]
         }
